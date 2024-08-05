@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="notes/css/style.css">
+<link rel="stylesheet" href="style.css">
+
+!!! #NOTE: This folder goes inside the root of the WordPress website.
 
 | **Tutorial Name**    | **How To Create A Login System In PHP For Beginners     \| Procedural MySQLi** |
 | -------------------- | ------------------------------------------------------------------------------ |
