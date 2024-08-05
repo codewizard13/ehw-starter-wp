@@ -1,0 +1,29 @@
+/* Coolors Exported Palette - https://coolors.co/f9f1e6-dcd5cf-ddccbb-fbf9f5-ce9173-a88471-f8f1e9-aa988f-706a63 */
+
+/* CSV */
+F9F1E6,DCD5CF,DDCCBB,FBF9F5,CE9173,A88471,F8F1E9,AA988F,706A63
+
+/* With # */
+#F9F1E6, #DCD5CF, #DDCCBB, #FBF9F5, #CE9173, #A88471, #F8F1E9, #AA988F, #706A63
+
+/* Array */
+["F9F1E6","DCD5CF","DDCCBB","FBF9F5","CE9173","A88471","F8F1E9","AA988F","706A63"]
+
+/* Object */
+{"Linen":"F9F1E6","Timberwolf":"DCD5CF","Almond":"DDCCBB","Baby Powder":"FBF9F5","Antique Brass":"CE9173","Beaver":"A88471","Linen 2":"F8F1E9","Grullo":"AA988F","Dim Gray":"706A63"}
+
+/* Extended Array */
+[{"name":"Linen","hex":"F9F1E6","rgb":[249,241,230],"cmyk":[0,3,8,2],"hsb":[35,8,98],"hsl":[35,61,94],"lab":[95,1,6]},{"name":"Timberwolf","hex":"DCD5CF","rgb":[220,213,207],"cmyk":[0,3,6,14],"hsb":[28,6,86],"hsl":[28,16,84],"lab":[86,1,4]},{"name":"Almond","hex":"DDCCBB","rgb":[221,204,187],"cmyk":[0,8,15,13],"hsb":[30,15,87],"hsl":[30,33,80],"lab":[83,3,11]},{"name":"Baby Powder","hex":"FBF9F5","rgb":[251,249,245],"cmyk":[0,1,2,2],"hsb":[40,2,98],"hsl":[40,43,97],"lab":[98,0,2]},{"name":"Antique Brass","hex":"CE9173","rgb":[206,145,115],"cmyk":[0,30,44,19],"hsb":[20,44,81],"hsl":[20,48,63],"lab":[65,19,25]},{"name":"Beaver","hex":"A88471","rgb":[168,132,113],"cmyk":[0,21,33,34],"hsb":[21,33,66],"hsl":[21,24,55],"lab":[58,11,16]},{"name":"Linen","hex":"F8F1E9","rgb":[248,241,233],"cmyk":[0,3,6,3],"hsb":[32,6,97],"hsl":[32,52,94],"lab":[95,1,5]},{"name":"Grullo","hex":"AA988F","rgb":[170,152,143],"cmyk":[0,11,16,33],"hsb":[20,16,67],"hsl":[20,14,61],"lab":[64,5,7]},{"name":"Dim Gray","hex":"706A63","rgb":[112,106,99],"cmyk":[0,5,12,56],"hsb":[32,12,44],"hsl":[32,6,41],"lab":[45,1,5]}]
+
+/* XML */
+<palette>
+  <color name="Linen" hex="F9F1E6" r="249" g="241" b="230" />
+  <color name="Timberwolf" hex="DCD5CF" r="220" g="213" b="207" />
+  <color name="Almond" hex="DDCCBB" r="221" g="204" b="187" />
+  <color name="Baby Powder" hex="FBF9F5" r="251" g="249" b="245" />
+  <color name="Antique Brass" hex="CE9173" r="206" g="145" b="115" />
+  <color name="Beaver" hex="A88471" r="168" g="132" b="113" />
+  <color name="Linen" hex="F8F1E9" r="248" g="241" b="233" />
+  <color name="Grullo" hex="AA988F" r="170" g="152" b="143" />
+  <color name="Dim Gray" hex="706A63" r="112" g="106" b="99" />
+</palette>

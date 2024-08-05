@@ -1,0 +1,14 @@
+Eric Hepperle
+2024-08-05
+== ==== ====
+
+ABOUT THIS FOLDER:
+
+NOTES
+
+Contains general notes about the repo / project possibly including:
+
+- how the site was built
+- thought processes and decisions used
+- possibilities considered
+- lessons learned.
